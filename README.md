@@ -65,7 +65,7 @@ The data insights provided by the dashboard will help management take various me
 
 ![Add Image](/Images/hr_project_03_power_bi_report.png)
 
-The live report is available [here](https://project.novypro.com/6NG5P4).
+The live report is available [here](https://app.powerbi.com/view?r=eyJrIjoiNmE0NzQwYWItOTNkZC00NGZjLWE0ZTUtZmE5OThiZTQxMjlmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
 
 ## ⛏️ Tools Used <a name = "a_3_BU"></a>
